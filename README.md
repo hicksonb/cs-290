@@ -1,2 +1,2 @@
 # cs-290
-Learning Github
+Repository for CS 290
