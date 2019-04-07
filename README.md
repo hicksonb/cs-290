@@ -1,2 +1,2 @@
-# cs-290-ex
+# cs-290
 Learning Github
